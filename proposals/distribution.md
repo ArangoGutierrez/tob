@@ -32,6 +32,7 @@ Additional Maintainers to consider:
 * Jimmy Zelinskie jimmy@coreos.com (@jzelinskie)
 * Liu Genping <[liugenping@huawei.com](mailto:liugenping@huawei.com)>
 * Vanessa Sochat (@vsoch)
+* Eduardo Arango (Sylabs)
 
 ## Code of Conduct
 
